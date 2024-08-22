@@ -20,6 +20,19 @@ conversion_rates = {
     'MXN': {'INR': 4.55, 'USD': 0.056, 'EUR': 0.052, 'JPY': 7.66, 'GBP': 0.044, 'AUD': 0.084, 'CAD': 0.070, 'CHF': 0.050, 'CNY': 0.39, 'NZD': 0.10},
 }
 
+currency_imges = {
+    'INR': 'D:/currency_convertor/static/inr.jpeg',
+    'USD': 'D:/currency_convertor/static/usd.jpg',
+    'EUR': 'D:/currency_convertor/static/eur.jpg',
+    'JPY': 'D:/currency_convertor/static/jpy.jpg',
+    'GBP': 'D:/currency_convertor/static/gbp.jpg',
+    'AUD': 'D:/currency_convertor/static/aud.jpg',
+    'CAD': 'D:/currency_convertor/static/cad.jpg',
+    'CHF': 'D:/currency_convertor/static/chf.jpg',
+    'CNY': 'D:/currency_convertor/static/cny.jpg',
+    'NZD': 'D:/currency_convertor/static/nzd.jpeg',
+    'MXN': 'D:/currency_convertor/static/mxn.jpg'
+}
 currency_images = {
     'INR': 'D:/currency_convertor/static/inr.jpeg',
     'USD': 'D:/currency_convertor/static/usd.jpg',
